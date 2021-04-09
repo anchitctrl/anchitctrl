@@ -10,4 +10,4 @@
 
 ### Connect with me:
 
-- [![Github]http://i.imgur.com/9I6NRUm.png][1]
+

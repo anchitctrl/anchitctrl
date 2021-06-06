@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitctrl&label=Profile%20views&color=0e75b6&style=flat" alt="anchitctrl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchitctrl" alt="anchitctrl" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks**
 
 - 💬 Ask me about **Java and DSA**
@@ -14,6 +12,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/13DFLlVCXHyUXyh8wLxDraGjOP6yMjFa1/view](https://drive.google.com/file/d/13DFLlVCXHyUXyh8wLxDraGjOP6yMjFa1/view)
 
 - ⚡ Fun fact **I am an Sketch Artist**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchitctrl" alt="anchitctrl" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

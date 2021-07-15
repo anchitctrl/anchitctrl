@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anchitaggarwal506@gmail.com**
 
-- 📄 Know about my experiences [anchitportfolio.surge.sh](anchitportfolio.surge.sh)
+- 📄 Know about my experiences (https://anchitportfolio.surge.sh/ "Visit my Website")
 
 - ⚡ Fun fact **I am a Sketch Artist**
 
